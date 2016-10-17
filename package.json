@@ -1,0 +1,10 @@
+{
+  "name": "gss-rename",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Riku Ayanokoji <me@rikua.me>",
+  "license": "MIT",
+  "dependencies": {
+    "css": "^2.2.1",
+  }
+}
